@@ -84,3 +84,5 @@ CTRL + ~
 ## for close terminal
 exit
 cls# Student
+
+git init
